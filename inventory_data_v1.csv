@@ -1,0 +1,13 @@
+﻿Product Name,Max Daily Sales,Avg Daily Sales,Max Lead Time (days),Avg Lead Time (days),Inventory Value,Total Sales,Avg Units Sold,Items Ordered,Items Received,Number of positive responses,Total responses received
+Product 1,100,50,14,7,"10,000",5000,50,200,190,3887,3923
+Product 2,80,40,10,5,"8,000",4000,40,150,140,3822,3882
+Product 3,60,30,7,4,"6,000",3000,30,100,95,3996,4036
+Product 4,120,60,20,10,"12,000",6000,60,250,240,3310,4969
+Product 5,90,45,12,6,9000,4500,45,180,170,3065,5223
+Product 6,70,35,8,4,7000,3500,35,120,115,3795,4485
+Product 7,110,55,16,8,11000,5500,55,220,210,3806,4496
+Product 8,85,42.5,11,5.5,8500,4250,42.5,160,150,3028,3117
+Product 9,50,25,5,3,5000,2500,25,80,75,3716,3792
+Product 10,130,65,22,11,13000,6500,65,280,270,3435,5107
+Product 11,95,47.5,13,6.5,9500,4750,47.5,190,180,3192,4490
+Product 12,75,37.5,9,4.5,7500,3750,37.5,140,130,3732,4812
